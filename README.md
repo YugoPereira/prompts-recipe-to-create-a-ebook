@@ -64,21 +64,29 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    <img
+  align="left"
+  margin="10"
+  width="80"
+  src="https://github.com/yugopereira.png?size=80"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspYugo Pereira<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/YugoPereira">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/yugopereira">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/yugopereira/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a 
+        href="https://github.com/yugopereira">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/yugopereira">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/yugopereira/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
